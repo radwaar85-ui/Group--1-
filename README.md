@@ -43,11 +43,6 @@ final project
 - **Week 2:** بناء الهوية البصرية (Brand Identity)، اختيار لوحة الألوان والخطوط، وتصميم اللوجو.
 - **Week 3:** تصميم محتوى وسائل التواصل الاجتماعي (Social Media Posts & Stories).
 - **Week 4:** تصميم الإعلانات الخارجية (Billboards, Bus Stops) والمطبوعات الشاملة (Touchpoints).
-- **Week 5:** المراجعة النهائية، تنسيق الملفات والمعرض على GitHub، والتجهيز للمناقشة.
-
----
-
-🔗 **Important Links:**
-- [Figma Design](https://figma.com/...)
+- **Week 5:** المراجعة النهائية، تنسيق الملفات والمعرض على GitHub، والتجهيز للمناقشة
 - [Google Drive Folder](https://drive.google.com/...)
 -
